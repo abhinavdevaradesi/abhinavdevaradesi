@@ -19,3 +19,7 @@ I enjoy working on hands-on projects where I can turn raw data into clear, visua
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhinavdevaradesi)
+
+---
+
+> 💡 *"I believe every dataset has a story – and I'm here to tell it with clarity and impact."*
