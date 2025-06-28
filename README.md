@@ -6,7 +6,7 @@ I enjoy working on hands-on projects where I can turn raw data into clear, visua
 
 ## 🔧 Skills & Tools
 
-- 💻 Programming: Java, C, C++, DSA  
+- 💻 Programming: Java, C, C++
 - 🌐 Web: HTML, CSS  
 - 📊 Data Analytics: Power BI
 
