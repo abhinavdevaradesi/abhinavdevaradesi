@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I can spend hours optimizing a query to save milliseconds.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1ckIk7YnLtc2zg7SttAz7KAQMUlBJCQfL/view?usp=drivesdk](https://drive.google.com/file/d/1ckIk7YnLtc2zg7SttAz7KAQMUlBJCQfL/view?usp=drivesdk)**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1wmm8nk2iDfB-xtb4v9faKmCcPQOe_tJ2/view**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
