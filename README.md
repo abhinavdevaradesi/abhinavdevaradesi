@@ -1,21 +1,16 @@
-# Hi 👋, I'm Abhinav D
+### Hi 👋, I'm Abhinav Devaradesi
 
-### A passionate Java developer
+A passionate Java backend developer building production-style APIs with Spring Boot.
 
+- 🔭 **Currently working on:** REST APIs and backend systems with Spring Boot, Spring Data JPA, and Hibernate
+- 🌱 **Currently learning:** Microservices, System Design, Docker, and DevOps fundamentals
+- 🤝 **Looking to collaborate on:** real-world backend projects and open-source contributions
+- 💬 **Ask me about:** Java, Spring Boot, REST APIs, and Backend Development
+- 📫 **Reach me at:** [abhinavdevaradesi@gmail.com](mailto:abhinavdevaradesi@gmail.com)
+- ⚡ **Fun fact:** I can spend hours optimizing a query to save a few milliseconds
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1wmm8nk2iDfB-xtb4v9faKmCcPQOe_tJ2/view)
 
-- 🔭 I'm currently working on **a Spring Boot project**
-
-- 🌱 I'm currently learning **Java, Spring Frameworks, REST APIs, Microservices, System Design, DevOps & Deployment**
-
-- 🤝 I'm looking for help with **contributing to a real-world technology**
-
-- 💬 Ask me about **Java, Spring Boot, REST APIs, and Backend Development**
-
-- 📫 How to reach me **abhinavdevaradesi@gmail.com**
-
-- ⚡ Fun fact **I can spend hours optimizing a query to save milliseconds.**
-
-- 📄 Know about my experiences **https://drive.google.com/file/d/1wmm8nk2iDfB-xtb4v9faKmCcPQOe_tJ2/view**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +30,6 @@
        alt="abhinavdevaradesi" />
 </p>
 
+### 📊 GitHub Stats
+
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavdevaradesi&show_icons=true&theme=default)
