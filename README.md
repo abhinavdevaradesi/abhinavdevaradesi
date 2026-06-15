@@ -8,7 +8,7 @@ A passionate Java backend developer building production-style APIs with Spring B
 - 💬 **Ask me about:** Java, Spring Boot, REST APIs, and Backend Development
 - 📫 **Reach me at:** [abhinavdevaradesi@gmail.com](mailto:abhinavdevaradesi@gmail.com)
 - ⚡ **Fun fact:** I can spend hours optimizing a query to save a few milliseconds
-- 📄 **Resume:** [View here](https://drive.google.com/file/d/1wmm8nk2iDfB-xtb4v9faKmCcPQOe_tJ2/view)
+- 📄 **Resume:** [View here](https://drive.google.com/file/d/1vcHo3VBVKD41SczUSBwfx88lDBO3wCoq/view?usp=sharing)
 
 ---
 
