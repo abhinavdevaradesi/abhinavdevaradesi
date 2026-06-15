@@ -32,4 +32,4 @@ A passionate Java backend developer building production-style APIs with Spring B
 
 ### 📊 GitHub Stats
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavdevaradesi&show_icons=true&theme=default)
+![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinavdevaradesi&show_icons=true&theme=dark)
